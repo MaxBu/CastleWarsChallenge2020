@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3d96f8020d534a6782e05ada45d3c6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mageObj: {instanceID: 0}
+  - fireballUI: {instanceID: 0}
+  - lockUI: {fileID: 3184554125896650965, guid: 28c467ff89554484fbdaf251a0102c64,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
